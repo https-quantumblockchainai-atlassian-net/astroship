@@ -1,0 +1,13 @@
+name: astroship
+id: ari:cloud:compass:2261fd15-e484-47df-a3c1-3945f31f5015:component/e50c4fd7-4bca-45fe-87b2-62835b87da68/adb78574-bc21-4f2e-a338-45b5d9e0eb5e
+description: Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
